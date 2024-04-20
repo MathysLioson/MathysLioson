@@ -1,16 +1,23 @@
-### Hi there 👋
+# Mathys LIOSON
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathyslioson)](https://github.com/anuraghazra/github-readme-stats)
+## Hi there 👋
+I'm Mathys LIOSON, a passionate developer from France.
 
-<!--
-**MathysLioson/MathysLioson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Work
+- Currently working at Capgemini !
+- Studying at EPSI - Master of Science - Expert in computer science and system of information
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning
+- Python for data analysis
+- Web development with React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Skills
+- Java
+- C++
+- SQL
+
+### Languages 🌐
+Fluent in French 🇫🇷 and English
+
+### 📫 How to reach me
+- mathyslioson@gmail.com
