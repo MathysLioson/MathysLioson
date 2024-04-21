@@ -1,23 +1,26 @@
 # Mathys LIOSON
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathyslioson)](https://github.com/anuraghazra/github-readme-stats)
-## Hi there 👋
-I'm Mathys LIOSON, a passionate developer from France.
 
-### 💼 Work
-- Currently working at Capgemini !
-- Studying at EPSI - Master of Science - Expert in computer science and system of information
+Welcome to my GitHub! I'm Mathys, a passionate developer based in France, currently enhancing my skills at Capgemini and EPSI.
 
-### 🌱 I’m currently learning
-- Python for data analysis
-- Web development with React.js
+[![Mathys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathyslioson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 👨‍💻 Skills
-- Java
-- C++
-- SQL
+## 👋 Introduction
+I'm pursuing a Master of Science in Computer Science and Information Systems at EPSI. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
-### Languages 🌐
-Fluent in French 🇫🇷 and English
+## 💼 Professional Journey
+- **Current Position:** Developer at Capgemini
+- **Education:** Master of Science - Expert in Computer Science and System of Information at EPSI
 
-### 📫 How to reach me
-- mathyslioson@gmail.com
+## 🌱 I’m currently learning
+- **Python for Data Analysis:** Diving deeper into data to drive insights.
+- **React.js for Web Development:** Building responsive and dynamic user interfaces.
+
+## 👨‍💻 Technical Skills
+- **Languages:** Java, C++, SQL
+- **Frameworks:** React.js
+
+## 🌐 Languages
+- **Fluent:** French 🇫🇷, English 🇺🇸
+
+## 📫 How to Reach Me
+- **Email:** [mathyslioson@gmail.com](mailto:mathyslioson@gmail.com)
